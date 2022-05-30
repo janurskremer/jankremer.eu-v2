@@ -16,10 +16,12 @@ Wenn ich nicht gerade lerne, mache ich gerne Sport, vor allem Laufen, Skifahren 
 ### PGP
 
 Fingerprint
-\
-`0A41 FED1 0DD3 6867 AF89  8FE1 A6AD D7D8 634E 6348`
-\
-[Public key](jankremer.gpg)
+
+```txt
+0A41 FED1 0DD3 6867 AF89 8FE1 A6AD D7D8 634E 6348
+```
+
+[Public key runterladen](jankremer.gpg)
 
 ### Matrix
 
